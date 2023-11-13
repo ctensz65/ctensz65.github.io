@@ -7,7 +7,7 @@ services:
       - JEKYLL_ENV
     ports:
       - 4000:4000
-    container_name: jekyll-TeXt-theme_default
+    container_name: static_site_default
     volumes:
       - ..:/usr/src/app
     stdin_open: true
