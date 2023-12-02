@@ -15,7 +15,7 @@ Beyond the realm of cybersecurity, I'm an avid enthusiast of dynamic sports such
 
 ### 101 Guide 
 
-At the core of this blog lies a commitment to demystifying offensive security. Whether it's pen-testing, red team strategies, or malware intricacies, I aim to distill complex concepts into accessible insights. I also delve into the fascinating world of robotics, offering a unique perspective that bridges cybersecurity and automated systems.
+At the core of this blog lies a commitment to demystifying offensive security. Whether it's pen-testing, red team strategies, or malware intricacies, I aim to distill complex concepts into accessible insights. I also delve into the fascinating world of robotics, cause it was my specific major i took in college.
 
 My posts are grouped by topic category, there are also tags in each post that reflect an object, real or conceptual. This method was inspired by [/dev/null](https://blog.benstein.nl/).
 
