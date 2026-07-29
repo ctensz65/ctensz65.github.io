@@ -1,6 +1,6 @@
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # https://ctensz65.github.io
+url     : https://ctensz65.github.io
 baseurl : # ctensz65.github.io
 title   : Cartensz1965
 description: > # this means to ignore newlines until "Language & timezone"
@@ -106,22 +106,18 @@ highlighter : rouge
 permalink   : date
 
 exclude:
-  - CHANGELOG.md
-  - HOW_TO_RELEASE.md
+  - Dockerfile.dev
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README-*.md
   - README.md
-  - gulpfile.js
-  - jekyll-text-theme.gemspec
+  - docker/
+  - docs/
+  - node_modules/
   - package-lock.json
   - package.json
-  - /docs
-  - /node_modules
-  - /screenshots
-  - /test
-  - /vendor
+  - tools/
+  - vendor/
 
 defaults:
   - scope:
@@ -140,5 +136,6 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
