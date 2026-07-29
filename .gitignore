@@ -27,3 +27,4 @@ _site/
 .jekyll-cache/
 docker/nginx.conf
 main.py
+docs
