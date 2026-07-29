@@ -1,5 +1,6 @@
 ---
 layout: article
+title: "whoami;"
 titles:
   # @start locale config
   en      : &EN       whoami;

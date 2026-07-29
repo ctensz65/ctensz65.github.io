@@ -1,5 +1,6 @@
 ---
 layout: categories
+title: Categories
 titles:
   # @start locale config
   en      : &EN       Categories
