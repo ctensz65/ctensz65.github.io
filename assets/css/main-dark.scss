@@ -1,0 +1,10 @@
+---
+# Dark-scheme stylesheet. Loaded by head.html behind a
+# prefers-color-scheme media query; see _sass/_bundle.scss.
+---
+
+@import
+    "skins/dark",
+    "skins/highlight/{{ site.highlight_theme | default: site.data.variables.default.highlight_theme }}",
+    "bundle"
+;
