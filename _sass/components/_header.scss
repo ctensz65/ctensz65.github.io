@@ -64,6 +64,7 @@
   @include flexbox();
   @include align-items(center);
   & > svg {
+    color: $header-text-color;
     width: map-get($base, font-size-h4) * 1.6;
     height: map-get($base, font-size-h4) * 1.6;
     margin-right: map-get($spacers, 3);
